@@ -1,0 +1,52 @@
+body 
+{
+    background-image: url("../img/background\ img.jpg");
+    background-size: 500px 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    width: 500px;
+    height: 800px;
+}
+
+.title {
+    color: white;
+    font-family: 'Black Ops One';
+    position: absolute;
+    left: 12%;
+    top: 19rem;
+    font-size: 39px;
+}
+
+.title-2 {
+    position: absolute;
+    color: white;
+    left: 27%;
+    bottom: 27%;
+}
+
+.title-3 {
+    position: absolute;;
+    color:red ;
+    font-family: 'Black Ops One';
+    left: 12%;
+    bottom: 20%;
+    font-size: 34px;
+}
+
+.date {
+    position: absolute;
+    bottom: 17%;
+    /* background-color: yellow; */
+    color: white;
+    left: 38%;
+    font-size: 30px;
+}
+
+.footer {
+    position: absolute;
+    top: 810px;
+}
+
